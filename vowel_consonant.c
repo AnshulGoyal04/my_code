@@ -17,6 +17,6 @@ void main()
 	}
 }
 else{
-	printf("Not an alphabet");
+	printf("Not a vowel nor a consonant");
 }
 }
